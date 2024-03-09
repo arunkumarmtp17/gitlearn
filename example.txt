@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 <<<<<<< 
-"succefull completed"
+"succefull ashpk  completed"
 =======
 "hi eveyone" 
 >>>>>>> p1
+=======
+<<<<<<< HEAD
+"succefull completed"
+=======
+"hi eveyone kfmeofemrijw3jr oijioji2jrijiofof m" 
+>>>>>>> p1
+>>>>>>> 7df96f05f3df26e500e6106d0c5786650614ec4f
