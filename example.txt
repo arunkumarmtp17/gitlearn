@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< 
 "succefull completed"
 =======
 "hi eveyone" 
